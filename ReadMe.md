@@ -1,6 +1,6 @@
-# Project Name
+# ROCK PAPER & SCISSOR'S GAME
 
-Brief description of your project.
+My first beginner and basic project using HTML, CSS(tailwind CSS) and Javascript
 
 
 
