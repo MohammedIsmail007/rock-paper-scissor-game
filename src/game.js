@@ -1,11 +1,6 @@
 
 
-function computerChoice(){
-    let choice = ['rock','paper','scissor'];
 
-    let computerRandom = Math.floor(Math.random()*3+1);
-    return (choice[computerRandom]);
-}
 
 function calc(){
     let playGame = confirm("Shall we play rock, paper, or scissors?");
@@ -54,7 +49,7 @@ function calc(){
     
 function resultFi(){
     
-    let computer = computerChoice();
+
 let playerChoice =  document.getElementById('option');   
 
 player = calc(playerChoice);
