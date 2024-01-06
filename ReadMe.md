@@ -1,14 +1,11 @@
- README file for JavaScript project using HTML, CSS (Tailwind CSS)
+# ROCK PAPER & SCISSOR'S GAME
 
-Feel free to customize it based on your project's specifics.
-```markdown
-# Project Name
-
-Brief description of your project.
+My first beginner and basic project using HTML, CSS(tailwind CSS) and Javascript
 
 
 
 ## Installation
+You need Node.js in your system.
 
 To run this project locally, you need to have Node.js and npm installed on your machine.
 
@@ -25,7 +22,7 @@ To run this project locally, you need to have Node.js and npm installed on your 
     ```
 
 3. **Install dependencies:**
-
+    
     ```bash
     npm install
     ```
