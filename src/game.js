@@ -1,9 +1,6 @@
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> e5c2fe996b0999d814d918f5f5947c59ce24a1b8
 
 function calc(){
     let playGame = confirm("Shall we play rock, paper, or scissors?");
@@ -52,10 +49,7 @@ function calc(){
     
 function resultFi(){
     
-<<<<<<< HEAD
 
-=======
->>>>>>> e5c2fe996b0999d814d918f5f5947c59ce24a1b8
 let playerChoice =  document.getElementById('option');   
 
 player = calc(playerChoice);
